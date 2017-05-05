@@ -11,7 +11,7 @@ Versioning
 Builder
 	Multistage builds
 	Docker build and Dockerfile improvement
-	[Screen Shot]('multi-stage pic.png')
+	[Screen Shot]('multi-stage-pic.png')
 
 	Build args
 Runtime
