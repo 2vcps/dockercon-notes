@@ -42,7 +42,7 @@ Going to prod securely is extremely hard
 
 1. Distributed Systems
   -swarm kit
-  sucre node introduction
+  secure node introduction
   mutual TLS
   Cluster segmentation
   encrypted networks (automatically)
@@ -65,4 +65,4 @@ Weekend Project
 HyperV
 nc localhost:6379 <checking redis
 
-etcd 
+etcd
