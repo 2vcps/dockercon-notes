@@ -1,4 +1,7 @@
+[Slideshare and Video](https://www.slideshare.net/Docker/container-performance-analysis-brendan-gregg-netflix)
+
 ![](perf-analysis/titus.png)
+
 ![](perf-analysis/titus2.png)
 ![](perf-analysis/perf-netflix.png)
 ![](perf-analysis/analysis.png)
